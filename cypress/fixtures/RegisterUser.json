@@ -1,0 +1,36 @@
+{
+    "validUser": {
+        "name"     : "revanth",
+        "rediffId" : "revanth1234",
+        "password" : "Kamal@1234",
+        "day"      : "20",
+        "month"    : "JUN",
+        "year"     : "2000",
+        "country"  : "India"
+    },
+    "takenId": {
+        "rediffId" : "test"
+    },
+    "matchingPassword": {
+        "password" : "Match@1234"
+    },
+    "alternativeDob": {
+        "day"   : "15",
+        "month" : "MAR",
+        "year"  : "1998"
+    },
+    "alternativeUser": {
+        "name"     : "sneha",
+        "rediffId" : "sneha9876",
+        "password" : "Sneha@5678",
+        "day"      : "10",
+        "month"    : "APR",
+        "year"     : "1995",
+        "country"  : "India"
+    },
+    "urls": {
+        "homepage"     : "https://rediff.com",
+        "loginPage"    : "mail.rediff.com",
+        "registerPage" : "register.rediff.com"
+    }
+}
